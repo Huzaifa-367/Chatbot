@@ -1,0 +1,23 @@
+requests
+streamlit
+faiss-cpu
+PyPDF2
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+gtts
+git+https://github.com/huggingface/diffusers
+streamlit-state
+accelerate
+transformers
+gradio==4.1.1
+Pillow==10.1.0
+sentencepiece==0.1.99
+optimum
+beautifulsoup4
+ftfy
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1
+langchain
+openai
